@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Асхаб</h1>
+<h3 align="center">Python Backend Developer</h3>
 
-<!--
-**Ashab-al/Ashab-al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 О себе
+Python backend-разработчик с фокусом на API и асинхронные системы.  
+Работаю с FastAPI, PostgreSQL и Telegram-ботами.  
+Пишу чистый, поддерживаемый код, понимаю архитектуру и ООП.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Технологии
+- **Backend:** Python 3.13+, FastAPI, REST API
+- **Async:** asyncio, asyncpg
+- **Database:** PostgreSQL, SQLAlchemy, Alembic
+- **Bots:** aiogram (Telegram)
+- **Config & Validation:** Pydantic, pydantic-settings
+- **Tests:** Pytest
+- **Infra:** Docker, Docker Compose
+- **Other:** Git, Linux
+
+---
+
+### 📌 Pet Project
+#### 🔹 Вакантист — Telegram-бот вакансий
+Telegram-бот для подписки на вакансии по категориям  
+с автоматической фильтрацией и уведомлениями.
+
+**Функции:**
+- Подписка на вакансии по категориям
+- Уведомления о новых предложениях
+- PostgreSQL + миграции
+- FastAPI для вебхуков
+- Docker-окружение
+- Оплата звёздами Telegram
+
+👉 Репозиторий: закреплён в профиле
+
+---
+
+### 📫 Контакты
+- Telegram: https://t.me/ashabal
