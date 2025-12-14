@@ -1,7 +1,4 @@
 <h1 align="center">Асхаб</h1>
-<h3 align="center">Python Backend Developer</h3>
-
----
 
 ### 🚀 О себе
 Python backend-разработчик.  
