@@ -7,16 +7,17 @@ Python backend-разработчик.
 
 ---
 
-### 🛠️ Технологии
-- **Backend:** Python 3.13+, FastAPI, REST API
-- **Async:** asyncio, asyncpg
-- **Database:** PostgreSQL, SQLAlchemy, Alembic
-- **Bots:** aiogram (Telegram)
-- **Config & Validation:** Pydantic, pydantic-settings
-- **Tests:** Pytest
-- **Infra:** Docker, Docker Compose
-- **Other:** Git, Linux
-
+### 🛠️ Навыки
+- **Языки программирования:** Python, Ruby, JavaScript (базовый уровень)
+- **Фреймворки:** FastApi, RubyOnRails
+- **Асинхронное программирование:** asyncio, asyncpg
+- **Валидация и конфигурация:** Pydantic, pydantic-settings
+- **Тестирование:** Pytest, Behave, RSpec, Capybara
+- **API:** RESTful API
+- **DevOps:** Docker
+- **Инструменты разработки:** Git, GitHub
+- **Шаблонизация:** Jinja2, ERB
+  
 ---
 
 ### 📌 Pet Project
@@ -38,3 +39,4 @@ Telegram-бот для подписки на вакансии по катего�
 
 ### 📫 Контакты
 - Telegram: https://t.me/ashabal
+- Telegram канал: https://t.me/asxabal
