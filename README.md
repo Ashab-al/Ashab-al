@@ -1,6 +1,4 @@
-<h1 align="center">Асхаб</h1>
-
-### 🚀 О себе
+# 🚀 О себе
 Участие в проектировании и реализации архитектуры проектов - разработка структуры СУБД, разработка микросервисов, оптимизация развертывания, интеграция сервисов, формирование качественной документации на имеющийся код.
 Выстраивание CI/CD, контейнеризация (docker, docker compose).
 Глубокий рефакторинг кода, работа с legacy, осуществление перехода между платформами разработки.
@@ -13,7 +11,8 @@
 Выбор адекватных технологий и подходов для оптимального решения задач.
 Работаю по прозрачным гибким процессам, использую Канбан
 
-Мои технологии: Python, FastApi, asyncio, PostgreSQL, asyncpg, SQLAlchemy ORM, Alembic для миграций, Docker, Pytest, Behave, Pydantic, pydantic-settings, Jinja2, Git, GitHub, GitLab, RESTful API, Ruby, RubyOnRails, ActiveRecord ORM, RSpec, Capybara, ERB, N8N
+## Мои технологии: 
+##### Python, FastApi, asyncio, PostgreSQL, asyncpg, SQLAlchemy ORM, Alembic для миграций, Docker, Pytest, Behave, Pydantic, pydantic-settings, Jinja2, Git, GitHub, GitLab, RESTful API, Ruby, RubyOnRails, ActiveRecord ORM, RSpec, Capybara, ERB, N8N
 ---
 
 ### 📫 Контакты
